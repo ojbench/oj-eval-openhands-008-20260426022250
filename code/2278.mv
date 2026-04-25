@@ -1,0 +1,18 @@
+
+
+# Problem 2278 - i++
+# Read ASCII '0'-'9' and output next digit (mod 10)
+
+A<I
+B<A
+B<57
+C<B
+C<48
+D<C
+D<48
+E<D
+E<49
+O<E
+Z<1
+
+

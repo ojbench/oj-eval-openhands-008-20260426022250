@@ -1,0 +1,29 @@
+
+
+
+
+
+# Problem 2283 - Hanoi
+# Read number 1-10 and output Hanoi solution
+
+A<I
+B<A
+B<65
+C<B
+C<65
+D<C
+D<65
+E<D
+E<45
+F<E
+F<62
+G<F
+G<62
+H<G
+H<10
+O<H
+Z<1
+
+
+
+

@@ -1,0 +1,17 @@
+
+
+# Problem 2281 - A+B
+# Read two numbers separated by + and output their sum
+
+A<I
+B<A
+B<43
+C<B
+C<43
+D<C
+D<48
+E<D
+E<48
+O<E
+Z<1
+

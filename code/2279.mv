@@ -1,0 +1,15 @@
+
+
+
+# Problem 2279 - echo
+# Echo input characters until EOF
+
+A<I
+B<A
+B<0
+C<B
+C<0
+O<A
+
+
+
